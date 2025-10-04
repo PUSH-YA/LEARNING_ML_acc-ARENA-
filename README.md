@@ -4,6 +4,8 @@ This repository serves as a centralized hub for storing my notebooks, answers, a
 
 The program builds on foundational open-source resources such as Anthropic's transformer circuits, Neel Nanda's TransformerLens library, and the original MLAB material, offering curated content and a supportive community for those looking to dive deeper into AI safety.  
 
+The public [streamlit app link](https://arena-chapter0-fundamentals.streamlit.app/)
+
 # Content
 
 The material in this repository covers the first five days of the ARENA curriculum. It provides a grounding in all the fundamentals necessary to complete the more advanced sections of the course, such as reinforcement learning (RL), transformers, mechanistic interpretability, and generative models.  
